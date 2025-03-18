@@ -9,33 +9,7 @@ This repository contains a deep learning project for cancer classification using
 - **Dropout**: Regularization technique to improve model generalization.
 - **Easy to Use**: Includes scripts for training, evaluation, and prediction.
 
-## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cancer-classification-tensorflow.git
-   cd cancer-classification-tensorflow
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Train the model:
-   ```bash
-   python train.py
-   ```
-
-4. Evaluate the model:
-   ```bash
-   python evaluate.py
-   ```
-
-5. Make predictions:
-   ```bash
-   python predict.py --input path/to/data.csv
-   ```
 
 ## Requirements
 
